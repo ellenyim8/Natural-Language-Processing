@@ -7,4 +7,5 @@ topics:
 - Logistic Regression
 - word2vec
 - Recurrent Neural Networks
-- Python libraries (Pandas, numpy, sklearn, nltk, spacy, matplotlib) 
+
+utilized Python libraries (Pandas, numpy, sklearn, nltk, spacy, matplotlib) 
