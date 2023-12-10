@@ -2,10 +2,10 @@
 
 Natural Language Processing
 
-topics:
-- Naive Bayes
-- Logistic Regression
-- word2vec
-- Recurrent Neural Networks
+- **Naive Bayes**
+  
+- **Logistic Regression**
 
-utilized Python libraries (Pandas, numpy, sklearn, nltk, spacy, matplotlib) 
+- **word2vec**
+
+- **Recurrent Neural Networks**
